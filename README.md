@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @keke
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Numpy
+- 💞️ I’m looking to collaborate on project assigments
+- 📫 How to reach me kajose01@louisville.edu
